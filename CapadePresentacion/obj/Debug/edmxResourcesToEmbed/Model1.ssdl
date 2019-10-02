@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PapeleriaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errores durante la generación:
+advertencia 6013: La tabla o vista 'Papeleria.dbo.Ventas' no tiene definida una clave principal y no es posible inferir ninguna clave principal válida. Esta tabla o vista se ha excluido. Para usar la entidad, necesitará revisar el esquema, agregar las claves correctas y quitar sus comentarios.
+        <EntityType Name="Ventas">
+          <Property Name="idventa" Type="int" />
+          <Property Name="Cantidad" Type="int" />
+          <Property Name="Nombre" Type="varchar" MaxLength="50" />
+          <Property Name="Total" Type="float" />
+          <Property Name="Fecha" Type="date" />
+          <Property Name="Comentario" Type="varchar(max)" />
+          <Property Name="Empleada" Type="varchar" MaxLength="35" />
+        </EntityType>-->
+  <EntityContainer Name="PapeleriaModelStoreContainer" />
+</Schema>

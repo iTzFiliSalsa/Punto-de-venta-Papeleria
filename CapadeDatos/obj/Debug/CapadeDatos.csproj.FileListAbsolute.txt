@@ -1,0 +1,6 @@
+C:\Users\filis\source\repos\Sis3Capas\CapadeDatos\bin\Debug\CapadeDatos.dll
+C:\Users\filis\source\repos\Sis3Capas\CapadeDatos\bin\Debug\CapadeDatos.pdb
+C:\Users\filis\source\repos\Sis3Capas\CapadeDatos\obj\Debug\CapadeDatos.csprojAssemblyReference.cache
+C:\Users\filis\source\repos\Sis3Capas\CapadeDatos\obj\Debug\CapadeDatos.csproj.CoreCompileInputs.cache
+C:\Users\filis\source\repos\Sis3Capas\CapadeDatos\obj\Debug\CapadeDatos.dll
+C:\Users\filis\source\repos\Sis3Capas\CapadeDatos\obj\Debug\CapadeDatos.pdb
